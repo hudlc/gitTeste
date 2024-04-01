@@ -4,10 +4,12 @@ public class MainSimple {
         SimpleRoom kitchen = new SimpleRoom("This is a kitchen");
         SimpleRoom bathroom = new SimpleRoom("This is a bathroom");
 
-        kitchen.setNetxtRoom(bathroom);
+        kitchen.setNextRoom(bathroom);
 
         Player player1 = new Player(kitchen);
 
+        player1.look();
+        player1.goToNextRoom();
         player1.look();
         player1.goToNextRoom();
         player1.look();

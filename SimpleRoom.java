@@ -2,11 +2,11 @@ public class SimpleRoom {
     private String description;
     private SimpleRoom nextRoom;
 
-    public SimpleRoom(String desscription) {
-        this.description = desscription;
+    public SimpleRoom(String description) {
+        this.description = description;
     }
 
-    public void setNetxtRoom(SimpleRoom room) {
+    public void setNextRoom(SimpleRoom room) {
         this.nextRoom = room;
     }
 
