@@ -1,3 +1,5 @@
+package Parte1;
+
 public class SimpleRoom {
     private String description;
     private SimpleRoom nextRoom;

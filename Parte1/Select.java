@@ -1,3 +1,5 @@
+package Parte1;
+
 public class Select {
 
     public static String pegaResposta(String input) {

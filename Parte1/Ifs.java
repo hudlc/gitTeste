@@ -1,3 +1,5 @@
+package Parte1;
+
 public class Ifs {
 
     public static int choice(int a, int b) {

@@ -1,3 +1,5 @@
+package Parte1;
+
 public class ComplexPlayer {
     private ComplexRoom currentRoom;
 

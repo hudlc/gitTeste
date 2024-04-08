@@ -1,3 +1,5 @@
+package Parte1;
+
 public class IfsStringConc {
     public static void main(String[] args) {
         String input = "pegar";

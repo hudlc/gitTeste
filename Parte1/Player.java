@@ -1,3 +1,5 @@
+package Parte1;
+
 public class Player {
     SimpleRoom currentRoom;
 

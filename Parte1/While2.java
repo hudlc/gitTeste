@@ -1,3 +1,5 @@
+package Parte1;
+
 import java.util.Scanner; // Import the Scanner class
 
 public class While2 {

@@ -1,3 +1,5 @@
+package Parte1;
+
 public class Escopo {
 
     public static String checkString() {
