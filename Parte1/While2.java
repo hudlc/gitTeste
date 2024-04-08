@@ -14,6 +14,8 @@ public class While2 {
             inputText = input.nextLine();
             System.out.println("You typed: " + inputText);
         }
+
+        input.close();
     }
 
 }

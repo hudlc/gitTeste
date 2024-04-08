@@ -16,6 +16,7 @@ public class While3 {
             System.out.println("You typed: " + inputText);
 
             if (inputText.equals("sair")) {
+                input.close();
                 break;
             }
         }
